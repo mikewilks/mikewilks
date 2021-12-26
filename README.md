@@ -1,4 +1,4 @@
-### Hi there 👋
+IBM Distinguished Engineer, CTO, architect, RHCSA and Python coder. Member of the IBM Academy of Technology. Views are my own
 
 <!--
 **mikewilks/mikewilks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
